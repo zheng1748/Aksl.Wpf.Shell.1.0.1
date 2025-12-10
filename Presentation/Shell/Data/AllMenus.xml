@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MenuItem Id="0"
+		  Title="根"
+		  Name="All"
+		  Level="1" >
+	<MenuItem Id="1"
+			  Name="Home"
+			  Title="主页"
+			  Level="2"
+			  IsHome="True"
+			  IconKind="Home" >
+		<MenuItem Id="1"
+				  Name="MyHome"
+				  Title="我的主页"
+				  Level="3"
+				  IsHome="True"
+				  IsSelectedOnInitialize="True"
+				  IconKind="Home"
+				  ItemType="Item"
+				  ModuleName="HomeModule"
+				  RequrePermissons="True"
+				  ViewName="Aksl.Modules.Home.Views.HomeView,Aksl.Modules.Home" >
+		</MenuItem>
+	</MenuItem>
+	<MenuItem Id="0"
+			  Name="IndustryManagerHamburgerMenu"
+			  Title="Industry"
+			  Level="2"
+			  IconKind="Draw"
+			  ItemType="Item"
+			  IsCacheable="True"
+			  ModuleName="HamburgerMenuNavigationSideBarModule"
+			  NavigationName="Industry">
+	</MenuItem>
+</MenuItem>
