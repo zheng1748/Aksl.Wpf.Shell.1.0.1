@@ -17,8 +17,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prism.Wpf", "Toolkits\Prism
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prism.Unity.Wpf", "Toolkits\Prism Library\Prism.Unity.Wpf\Prism.Unity.Wpf.csproj", "{2ED63CA2-6C42-40DD-AF17-9C990E75A530}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sdk", "Sdk", "{BA3CD8F0-DC48-4886-B4A5-867CD01DD5F4}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prism.Core", "Toolkits\Prism Library\Prism.Core\Prism.Core.csproj", "{924E08CD-824C-43CD-8B8B-3D7673E19D5D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aksl.Infrastructure", "Infrastructure\Aksl.Infrastructure\Aksl.Infrastructure.csproj", "{ADE7520F-AB1B-4EA2-9B17-3837DC19E53E}"
